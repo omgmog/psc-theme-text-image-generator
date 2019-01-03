@@ -1,0 +1,18 @@
+{
+  "width": 171,
+  "height": 60,
+  "font": "arial_unicode_bold_shadow_32",
+  "path": "BMP_Text",
+  "prefix": "OK_Btn",
+  "suffix": ".png",
+  "strings": [
+  	{
+  		"names": ["", "Dutch", "E", "E_UK", "French", "French_CA", "German", "Italian", "Portuguese", "Portuguese_BR", "Russian"],
+  		"text": "OK"
+  	},
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "ACEPTER"
+    }
+  ]
+}

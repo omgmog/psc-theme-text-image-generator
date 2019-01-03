@@ -1,0 +1,18 @@
+{
+  "width": 124,
+  "height": 28,
+  "font": "arial_unicode_bold_shadow_22",
+  "path": "Disk",
+  "prefix": "OK_SD_Btn",
+  "suffix": ".png",
+  "strings": [
+  	{
+  		"names": ["", "Dutch", "E", "E_UK", "French", "French_CA", "German", "Italian", "J", "Portuguese", "Portuguese_BR", "Russian"],
+  		"text": "OK"
+  	},
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "ACEPTER"
+    }
+  ]
+}

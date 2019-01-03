@@ -1,0 +1,13 @@
+{
+  "name": "psc_bmp_text_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gen_images.js",
+  "scripts": {
+  },
+  "author": "Max Glenister <moglenstar@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "jimp": "^0.6.0"
+  }
+}

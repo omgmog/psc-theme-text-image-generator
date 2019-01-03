@@ -1,0 +1,38 @@
+{
+  "width": 120,
+  "height": 60,
+  "font": "arial_unicode_bold_shadow_32",
+  "path": "BMP_Text",
+  "prefix": "Yes_Btn",
+  "suffix": ".png",
+  "strings": [
+    {
+      "names": ["E", "E_UK"],
+      "text": "YES"
+    },
+    {
+      "names": [""],
+      "text": "はい"
+    },
+    {
+      "names": ["Dutch", "German"],
+      "text": "JA"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "OUI"
+    },
+    {
+      "names": ["Portuguese", "Portuguese_BR"],
+      "text": "SIM"
+    },
+    {
+      "names": ["Italian", "Spanish", "Spanish_LA"],
+      "text": "SÍ"
+    },
+    {
+      "names": ["Russian"],
+      "text": "ДА"
+    }
+  ]
+}

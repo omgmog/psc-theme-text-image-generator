@@ -1,0 +1,54 @@
+{
+  "width": 446,
+  "height": 54,
+  "font": "arial_unicode_bold_32",
+  "path": "BMP_Text",
+  "prefix": "Setting",
+  "suffix": ".png",
+  "strings": [
+    {
+      "names": ["E", "E_UK"],
+      "text": "SETTINGS"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "INSTELLINGEN"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "PARAMÈTRES"
+    },
+    {
+      "names": ["German"],
+      "text": "EINSTELLUNGEN"
+    },
+    {
+      "names": ["Italian"],
+      "text": "IMPOSTAZIONI"
+    },
+    {
+      "names": ["J"],
+      "text": "設定"
+    },
+    {
+      "names": ["Portuguese"],
+      "text": "DEFINIÇÕES"
+    },
+    {
+      "names": ["Portuguese_BR"],
+      "text": "CONFIGURAÇÕES"
+    },
+    {
+      "names": ["Russian"],
+      "text": "НАСТРОЙКИ"
+    },
+    {
+      "names": ["Spanish"],
+      "text": "AJUSTES"
+    },
+    {
+      "names": ["Spanish_LA"],
+      "text": "CONFIGURACIÓN"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "width": 300,
+  "height": 36,
+  "font": "arial_unicode_bold_24",
+  "path": "BMP_Text",
+  "prefix": "ResumeSave",
+  "suffix": "_S.png",
+  "strings": [
+    {
+      "names": ["E", "E_UK"],
+      "text": "RESUME POINT"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "HERVATTNGSPUNT"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "POINT DE REPRISE"
+    },
+    {
+      "names": ["German"],
+      "text": "FORTSETZUNGSPUNKT"
+    },
+    {
+      "names": ["Italian"],
+      "text": "PUNTO DI RIPRESA"
+    },
+    {
+      "names": ["J"],
+      "text": "再開ポイント"
+    },
+    {
+      "names": ["Portuguese"],
+      "text": "PONTO DE CONTINUAÇÃO",
+      "font": "arial_unicode_bold_20"
+    },
+    {
+      "names": ["Portuguese_BR"],
+      "text": "PONTO DE RETOMADA",
+      "font": "arial_unicode_bold_20"
+    },
+    {
+      "names": ["Russian"],
+      "text": "ТОЧКА ВОЗОБНОВЛЕНИЯ",
+      "font": "arial_unicode_bold_20"
+    },
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "PUNTO DE REANUDACIÓN",
+      "font": "arial_unicode_bold_20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "width": 262,
+  "height": 60,
+  "font": "arial_unicode_bold_shadow_32",
+  "path": "BMP_Text",
+  "prefix": "Play_Text",
+  "suffix": ".png",
+  "strings": [
+    {
+      "names": ["", "E", "E_UK"],
+      "text": "PLAY"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "AFSPELEN"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "LIRE"
+    },
+    {
+      "names": ["German"],
+      "text": "ABSPIELEN"
+    },
+    {
+      "names": ["Italian"],
+      "text": "RIPRODUCI"
+    },
+    {
+      "names": ["Portuguese", "Portuguese_BR"],
+      "text": "JOGAR"
+    },
+    {
+      "names": ["Russian"],
+      "text": "ИГРА"
+    },
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "JUGAR"
+    }
+  ]
+}

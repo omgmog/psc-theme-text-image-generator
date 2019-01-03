@@ -1,0 +1,42 @@
+{
+  "width": 256,
+  "height": 80,
+  "font": "arial_unicode_bold_shadow_32",
+  "path": "BMP_Text",
+  "prefix": "Delete_Text",
+  "suffix": ".png",
+  "strings": [
+    {
+      "names": ["", "E", "E_UK"],
+      "text": "DELETE"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "VERWIJDER"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "SUPPRIMER"
+    },
+    {
+      "names": ["German"],
+      "text": "LÖSCHEN"
+    },
+    {
+      "names": ["Italian"],
+      "text": "ELIMINARE"
+    },
+    {
+      "names": ["Portuguese", "Portuguese_BR"],
+      "text": "EXCLUIR"
+    },
+    {
+      "names": ["Russian"],
+      "text": "УДАЛЯТЬ"
+    },
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "ELIMINAR"
+    }
+  ]
+}

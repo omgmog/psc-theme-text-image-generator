@@ -1,0 +1,38 @@
+{
+  "width": 120,
+  "height": 60,
+  "font": "arial_unicode_bold_shadow_32",
+  "path": "BMP_Text",
+  "prefix": "No_Btn",
+  "suffix": ".png",
+  "strings": [
+    {
+      "names": ["E", "E_UK", "Italian", "Spanish", "Spanish_LA"],
+      "text": "NO"
+    },
+    {
+      "names": [""],
+      "text": "いいえ"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "NEE"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "NON"
+    },
+    {
+      "names": ["German"],
+      "text": "NEIN"
+    },
+    {
+      "names": ["Portuguese", "Portuguese_BR"],
+      "text": "NÃO"
+    },
+    {
+      "names": ["Russian"],
+      "text": "HET"
+    }
+  ]
+}

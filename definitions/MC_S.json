@@ -1,0 +1,48 @@
+{
+  "width": 300,
+  "height": 36,
+  "font": "arial_unicode_bold_24",
+  "path": "BMP_Text",
+  "prefix": "MC",
+  "suffix": "_S.png",
+  "strings": [
+    {
+      "names": ["E", "E_UK"],
+      "text": "MEMORY CARD"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "GEHEUGENKAART"
+    },
+    {
+      "names": ["French", "French_CA"],
+      "text": "CARTE MÉMOIRE"
+    },
+    {
+      "names": ["German"],
+      "text": "SPEICHERKARTE"
+    },
+    {
+      "names": ["Italian"],
+      "text": "SCHEDA DI MEMORIA",
+      "font": "arial_unicode_bold_22"
+    },
+    {
+      "names": ["J"],
+      "text": "メモリーカード"
+    },
+    {
+      "names": ["Portuguese", "Portuguese_BR"],
+      "text": "CARTÃO DE MEMÓRIA"
+    },
+    {
+      "names": ["Russian"],
+      "text": "КАРТА ПАМЯТИ"
+    },
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "TARJETA DE MEMORIA",
+      "font": "arial_unicode_bold_22"
+    }
+  ]
+}

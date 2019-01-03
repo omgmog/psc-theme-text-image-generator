@@ -1,0 +1,42 @@
+{
+  "width": 446,
+  "height": 54,
+  "font": "arial_unicode_bold_32",
+  "path": "BMP_Text",
+  "prefix": "Manual",
+  "suffix": ".png",
+  "strings": [
+    {
+      "names": ["E", "E_UK", "French", "French_CA"],
+      "text": "GUIDES"
+    },
+    {
+      "names": ["Dutch"],
+      "text": "HANDLEIDINGEN"
+    },
+    {
+      "names": ["German"],
+      "text": "LEITFÄDEN"
+    },
+    {
+      "names": ["Italian"],
+      "text": "GUIDE"
+    },
+    {
+      "names": ["J"],
+      "text": "ガイド"
+    },
+    {
+      "names": ["Portuguese", "Portuguese_BR"],
+      "text": "GUIAS"
+    },
+    {
+      "names": ["Russian"],
+      "text": "РУКОВОДСТВА"
+    },
+    {
+      "names": ["Spanish", "Spanish_LA"],
+      "text": "GUÍAS"
+    }
+  ]
+}
