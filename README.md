@@ -46,7 +46,7 @@ To create additional `.fnt` sets, use [Hiero](https://github.com/libgdx/libgdx/w
 If you've made changes to any of the strings, run the `gen_chars.js` script:
 
 ```
-node gen_chars.js`
+node gen_chars.js
 ```
 
 This will output all of the unique characters used across all of the string definitions. You can copy/paste this in to Hiero to make sure you have all of the necessary font glyphs.
